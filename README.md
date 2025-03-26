@@ -1,3 +1,5 @@
+Krako Follow BOINC Type
+
 BOINC is a software platform for "volunteer computing":
 large-scale distributed high-throughput computing using volunteered home computers and other resources.
 
